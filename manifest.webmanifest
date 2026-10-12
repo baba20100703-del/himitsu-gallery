@@ -1,0 +1,13 @@
+{
+  "id": "./",
+  "name": "ひみつギャラリー",
+  "short_name": "ひみつギャラリー",
+  "description": "画像と動画をフォルダごとに整理して閲覧する個人用ギャラリー",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#101117",
+  "theme_color": "#101117",
+  "orientation": "portrait",
+  "icons": [{"src":"./icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
